@@ -26,11 +26,13 @@ Laporan disusun berdua: setiap anggota menulis bagian dari task yang dikerjakann
 
 Pengembangan dilakukan melalui fork dan branch masing-masing sebelum digabungkan ke branch `main` repositori utama.
 
-- **PR #1 – Integrasi Task 1, Task 3 bagian Anggota 1, dan dokumentasi laporan** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/1
+- **PR #1 – Integrasi Task 1, Task 3 bagian gambar, dan dokumentasi laporan** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/1
   Ringkasan: Menambahkan notebook dan implementasi Task 1 (klasifikasi multimodal), integrasi Task 3 Anggota 1 dan Anggota 2, serta dokumentasi laporan UTS. Di-merge oleh @monicafebyana-wq ke `main`.
 - **PR #2 – Penghapusan dokumentasi laporan sementara** (oleh @cheyzaamanda): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/2
   Ringkasan: Merapikan repositori dengan menghapus berkas dokumentasi laporan yang ditambahkan pada PR #1.
-- **Branch `task3-gambar-anggota1`** (oleh @cheyzaamanda): pengerjaan Task 3 bagian gambar (Anggota 1).
+- **PR #3 – Task 2 (RUL), Task 3 bagian Spektrum & Clustering, dan dokumentasi** (oleh @monicafebyana-wq): https://github.com/monicafebyana-wq/DL-UTS-2026/pull/3
+  Ringkasan: Menambahkan pembaruan akhir implementasi Task 2 (`prediksi_rul.csv`), Task 3 bagian spektrum, fusi multimodal, dan clustering (`cluster.csv`), serta pembaruan dokumen laporan dan `kontribusi.md`.
+- **Komitmen langsung pada branch `main` dan Review PR** (oleh @monicafebyana-wq): Inisialisasi struktur repositori utama, implementasi awal Task 2 dan Task 3 bagian spektrum, serta peninjauan dan penggabungan (merge) PR dari kontributor.
 
 ## 3. Deklarasi Penggunaan AI Tools
 
